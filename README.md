@@ -1,0 +1,1 @@
+Este projeto e a versão em Ruby para raspagem de dados e uso de dataset de imoveis, com uma estrutura parecida com o do Python para realizar as funciodades de pesquisas, assim o mesmo serve para poder trabalhar e gerar arquivos em CSV dentro do script da propria linguagen com alguns exemplos, identicos com o proejto em Python.
