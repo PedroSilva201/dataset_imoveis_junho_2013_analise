@@ -5,7 +5,7 @@ A versão em Python poderá ser visualizada aqui: <https://colab.research.google
 Aqui um exemplo de como o script em ruby roda normalmente:
 
 ![Image](https://github.com/PedroSilva201/dataset_imoveis_junho_2013_analise/issues/3#issue-3152869209)
-
+https://github.com/PedroSilva201/dataset_imoveis_junho_2013_analise/issues/3#issue-3152869209
 
 Para rodar o arquivo deve digitar no terminal do VSC ruby app.rb, ou qualquer um dos arquivos para simular os casoos de teste, o teste.rb serve para testar o sistema se ele está rodando corretamente.
 
