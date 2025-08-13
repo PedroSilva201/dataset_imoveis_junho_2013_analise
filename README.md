@@ -14,5 +14,7 @@ Para rodar o arquivo deve digitar no terminal do VSC ruby app.rb, ou qualquer um
 # Novidades
 Agora foi inserido dentro do repositório o arquivo .inpyb que corrresponde a linguagem Python junto com o Jupyter Notebook utilizando o Drive.
 
+![Image](https://github.com/user-attachments/assets/35994dc1-fc45-46c3-a71f-61ecf781e069)
+
 # Esclarecimentos
 Peço desculpas pela não exibição da imagem, o mesmo será corrigido em breve.
