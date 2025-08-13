@@ -11,5 +11,8 @@ Para mais detalhes, clique no link em azul acima onde poderá ser observado com 
 
 Para rodar o arquivo deve digitar no terminal do VSC ruby app.rb, ou qualquer um dos arquivos para simular os casos de teste, o teste.rb serve para testar o sistema se ele está rodando corretamente.
 
+# Novidades
+Agora foi inserido dentro do repositório o arquivo .inpyb que corrresponde a linguagem Python junto com o Jupyter Notebook utilizando o Drive.
+
 # Esclarecimentos
 Peço desculpas pela não exibição da imagem, o mesmo será corrigido em breve.
