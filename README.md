@@ -4,11 +4,6 @@ Este projeto e a versão em Ruby para raspagem de dados e uso de dataset de imó
 A versão em Python poderá ser visualizada aqui: <https://colab.research.google.com/drive/1QsuyA7XDx1TK_eyzX3MLssaJnc7yinER?usp=sharing> possuindo mais detalhes sobre o mesmo, inclusive com caracteristicas parecidas e com mais detalhes em relação a linguagem Ruby, ambos serão aprofundados daqui a algum tempo.
 Aqui um exemplo de como o script em ruby roda normalmente:
 
-![Image](https://github.com/PedroSilva201/dataset_imoveis_junho_2013_analise/issues/3#issue-3152869209)
-
-![Image](https://github.com/PedroSilva201/dataset_imoveis_junho_2013_analise/issues/3#issue-3152869209)
-
-![Image](https://github.com/PedroSilva201/dataset_imoveis_junho_2013_analise/issues/3#issue-3152869209)
 ![Image](assets/Exemplo_Ruby.png)
 
 
@@ -18,8 +13,6 @@ Para rodar o arquivo deve digitar no terminal do VSC ruby app.rb, ou qualquer um
 
 # Novidades
 Agora foi inserido dentro do repositório o arquivo .inpyb que corrresponde a linguagem Python junto com o Jupyter Notebook utilizando o Drive.
-
-![Image](https://github.com/user-attachments/assets/35994dc1-fc45-46c3-a71f-61ecf781e069)
 
 # Esclarecimentos
 Peço desculpas pela não exibição da imagem, o mesmo será corrigido em breve.
